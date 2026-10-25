@@ -1,0 +1,6 @@
+{
+  "name": "TintGo Doorstep - PPF & Car Sun Control Films",
+  "description": "Premium doorstep car sunscreen & window film installation featuring Würth and Avery Dennison certified solar protection, mobile booking, and shade visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
